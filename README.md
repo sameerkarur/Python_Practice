@@ -203,7 +203,7 @@ If this repo helped you in your learning journey, please **give it a star** ⭐ 
 
 Made with 💻 by [Sameer Karur](https://github.com/sameerkarur)
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) if you have questions or feedback!
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sameer-karur-a5648224b/) if you have questions or feedback!
 
 ---
 
