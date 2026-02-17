@@ -8,12 +8,12 @@ A **complete, beginner-friendly** repository to learn and practice Python for Da
 
 ## 📌 What's Inside
 
-| Library | Reference Guide | Practice Questions | Jupyter Notebook |
-|---|---|---|---|
-| **NumPy** | [numpy_basics.md](numpy/numpy_basics.md) | [45 Questions](numpy/numpy_practice.md) | [numpy_practice.ipynb](numpy/numpy_practice.ipynb) |
-| **Pandas** | [pandas_basics.md](pandas/pandas_basics.md) | [70 Questions](pandas/pandas_practice.md) | [pandas_practice.ipynb](pandas/pandas_practice.ipynb) |
-| **Matplotlib** | [matplotlib_basics.md](matplotlib/matplotlib_basics.md) | [45 Questions](matplotlib/matplotlib_practice.md) | [matplotlib_practice.ipynb](matplotlib/matplotlib_practice.ipynb) |
-| **Seaborn** | [seaborn_basics.md](seaborn/seaborn_basics.md) | [60 Questions](seaborn/seaborn_practice.md) | [seaborn_practice.ipynb](seaborn/seaborn_practice.ipynb) |
+| Library | Reference Guide | Practice Questions | Jupyter Notebook | Solutions |
+|---|---|---|---|---|
+| **NumPy** | [numpy_basics.md](numpy/numpy_basics.md) | [45 Questions](numpy/numpy_practice.md) | [numpy_practice.ipynb](numpy/numpy_practice.ipynb) | [numpy_solutions.ipynb](numpy/numpy_solutions.ipynb) |
+| **Pandas** | [pandas_basics.md](pandas/pandas_basics.md) | [70 Questions](pandas/pandas_practice.md) | [pandas_practice.ipynb](pandas/pandas_practice.ipynb) | [pandas_solutions.ipynb](pandas/pandas_solutions.ipynb) |
+| **Matplotlib** | [matplotlib_basics.md](matplotlib/matplotlib_basics.md) | [45 Questions](matplotlib/matplotlib_practice.md) | [matplotlib_practice.ipynb](matplotlib/matplotlib_practice.ipynb) | [matplotlib_solutions.ipynb](matplotlib/matplotlib_solutions.ipynb) |
+| **Seaborn** | [seaborn_basics.md](seaborn/seaborn_basics.md) | [60 Questions](seaborn/seaborn_practice.md) | [seaborn_practice.ipynb](seaborn/seaborn_practice.ipynb) | [seaborn_solutions.ipynb](seaborn/seaborn_solutions.ipynb) |
 
 **Total: 220+ practice questions** ranging from Beginner to Advanced.
 
@@ -30,22 +30,26 @@ Python_Practice/
 ├── numpy/
 │   ├── numpy_basics.md              ← Syntax reference & cheat sheet
 │   ├── numpy_practice.md            ← 45 practice questions
-│   └── numpy_practice.ipynb         ← Jupyter notebook to solve in
+│   ├── numpy_practice.ipynb         ← Jupyter notebook to solve in
+│   └── numpy_solutions.ipynb        ← Solutions with explanations
 │
 ├── pandas/
 │   ├── pandas_basics.md
 │   ├── pandas_practice.md           ← 70 practice questions
-│   └── pandas_practice.ipynb
+│   ├── pandas_practice.ipynb
+│   └── pandas_solutions.ipynb       ← Solutions with explanations
 │
 ├── matplotlib/
 │   ├── matplotlib_basics.md
 │   ├── matplotlib_practice.md       ← 45 practice questions
-│   └── matplotlib_practice.ipynb
+│   ├── matplotlib_practice.ipynb
+│   └── matplotlib_solutions.ipynb   ← Solutions with explanations
 │
 └── seaborn/
     ├── seaborn_basics.md
     ├── seaborn_practice.md          ← 60 practice questions
-    └── seaborn_practice.ipynb
+    ├── seaborn_practice.ipynb
+    └── seaborn_solutions.ipynb      ← Solutions with explanations
 ```
 
 ---
